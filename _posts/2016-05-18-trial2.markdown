@@ -1,7 +1,0 @@
----
-layout: post
-title:  "test 2"
-date:   2016-05-18 20:25:00 -0400
-categories: jekyll update
----
-this is a test, does it work?
