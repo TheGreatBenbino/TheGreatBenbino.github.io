@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Great Benbino
+title: The Adventures of Benbino
 email: benjsear9542@granitesd.org
 description: > # this means to ignore newlines until "baseurl:"
     A website built purely by a middle-school student, with the help of github and codecademy.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "thegreatbenbino.github.io" # the base hostname & protocol for your site
 github_username:  TheGreatBenbino
 
 # Build settings
