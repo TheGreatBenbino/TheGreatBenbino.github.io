@@ -10,7 +10,7 @@ title: The Adventures of Benbino
 email: benjsear9542@granitesd.org
 description: > # this means to ignore newlines until "baseurl:"
     A website built purely by a middle-school student, with the help of github and codecademy.
-baseurl: "/test" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "thegreatbenbino.github.io" # the base hostname & protocol for your site
 github_username:  TheGreatBenbino
 
