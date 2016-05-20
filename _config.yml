@@ -6,8 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: <- Back
-foot_title: Benjamin/ Developer
+title: The Adventures of Benbino
+back_button: <- Back
+foot_title: Benjamin / Developer
 email: benjsear9542@granitesd.org
 description: > # this means to ignore newlines until "baseurl:"
     You can see my stats by clicking on the github link.  Questions, Comments, or Suggestions can go to the email provided.
