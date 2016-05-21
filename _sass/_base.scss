@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit;
 }
 
 
@@ -160,8 +160,8 @@ pre {
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-		pading-top:    $spacing-unit;
-		padding-bottom: $spacing-unit;
+		margin-top:    $spacing-unit;
+		margin-bottom: $spacing-unit;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;
